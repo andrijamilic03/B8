@@ -1,0 +1,116 @@
+.body
+{
+    background-color:white;
+    
+	margin:10px auto;
+	
+	
+
+}
+h1
+{
+	background-color: rgb(51, 102, 153);
+    padding-left: 2%;
+    color:white;
+	margin:0;
+	height:70px;
+}
+
+.a1{color:white;}
+.p1{
+	margin-left:2%;
+	
+}
+.formparts
+{
+	
+	display:flex;
+}
+.submit{
+	margin-left:5.5%;
+	margin-top:1%;
+}
+.inputmail
+{
+	margin:1%;
+	margin-left:1.5%;
+}
+.inputime
+{
+	margin:1%;
+	margin-left:2.2%;
+}
+.inputkom
+{
+	margin-top:1%;
+	
+}
+.meni
+{
+        
+    overflow: hidden; /* Hide overflow */
+    background-color: rgb(32, 64, 96);
+   height:50px;
+
+}  
+.containeroautoru
+{
+	display:block;
+	position:auto;
+	margin:5% auto;
+	width:480px;
+	}
+.oautoruslika{
+	width:480px;
+	height:640px;
+}
+
+.uputstvoslika
+{
+    width: 594px;
+    height: 400px;
+    margin:5% auto;
+}
+
+.text
+{
+	
+color: #9c3d4a;
+  font-size: 20px;
+  position: absolute;
+  float:left;
+ 
+  width:480px;
+}
+h2
+{
+	padding-left:2%;
+}
+
+
+.zaglavlje{
+    list-style: none;
+    text-decoration: none; /* Remove underline */
+    
+  
+}
+.delovizaglavlja
+{
+    float: left; /* Make sure that the links stay side-by-side */
+    display: block; /* Change the display to block, for responsive reasons (see below) */
+   font-size: 15px;
+    text-align: center; /* Center the text */
+    padding: 3px 20px; /* Add some padding */
+     border-style: solid;
+  border-width: 1px;
+  border-color:white;
+  background-color: rgb(37, 77, 116);
+   
+	
+    
+}
+
+.delovizaglavlja a:hover {
+    background-color: rgb(47, 145, 211); /* Grey background color */
+    color: black; /* Black text color */
+  }
